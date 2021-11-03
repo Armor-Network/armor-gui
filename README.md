@@ -4,7 +4,7 @@
 
 ### Windows
 To build the gui you must have built **armor core**, so please do all steps from [here](https://github.com/Armor-Network/armor#building-on-windows) before proceeding!
-<br/>Install [QtCreator](https://www.qt.io/download-thank-you?os=windows), open the project file armor-gui/src/armor-gui.pro in QtCreator and build it using MSVS kit (you must have MSVS installed already to build armor core).
+<br/>Install [QtCreator](https://www.qt.io/download-thank-you?os=windows), open the project file `armor-gui/src/armor-gui.pro` in QtCreator and build it using MSVS kit (you must have MSVS installed already to build armor core).
 
 Detailed build instructions for **armor-gui** [here](https://github.com/Armor-Network/armor-gui/blob/main/DetailedBuild.md#building-the-armor-gui-wallet-for-windows-from-source-code).
 
